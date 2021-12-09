@@ -1,0 +1,10 @@
+.image img
+{
+	height: 480px;
+	width: 450px;
+}
+.image
+{
+	background-color: white;
+	margin-top: 20px;
+}
